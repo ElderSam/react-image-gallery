@@ -1,3 +1,11 @@
+:root {
+  --dark: #282c34;
+  --white: white;
+  --violet: #7b77c9;
+  --grey: #818baa;
+  --green: #54ab73;
+}
+
 body {
   margin: 0;
   padding: 0;

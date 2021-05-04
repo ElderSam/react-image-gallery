@@ -7,7 +7,7 @@ h2 {
     height: 65px;
     font-size: 45px;
     line-height: 30px;
-    color: #7b77c9;
+    color: var(--violet);
     font-weight: 700;
     margin: 55px auto;
     margin-bottom: 0;
@@ -19,14 +19,14 @@ h2 {
 
 .card_body p {
     font-size: 21px;
-    color: #54ab73;
+    color: var(--green);
     margin-top: 10px;
     margin-bottom: 0;
 }
 
 .card_body small {
     font-size: 14px;
-    color: #818baa;
+    color: var(--grey);
     margin: 0;
 }
 
@@ -76,8 +76,8 @@ h2 {
 .btn-back-home a {
     padding: 12px 25px;
     border-radius: 5px;
-    background-color: #7b77c9;
-    color: white;
+    background-color: var(--violet);
+    color: var(--white);
 }
 
 /*
