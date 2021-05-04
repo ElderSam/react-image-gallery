@@ -3,14 +3,12 @@
 }
 
 h2 {
-    width: 780px;
-    height: 65px;
     font-size: 45px;
     line-height: 30px;
     color: var(--violet);
     font-weight: 700;
     margin: 55px auto;
-    margin-bottom: 0;
+    margin-bottom: 40px;
 }
 .card_body {
     margin: 25px;
@@ -79,56 +77,3 @@ h2 {
     background-color: var(--violet);
     color: var(--white);
 }
-
-/*
-#modal_img{
-    width: 65vw;
-    transform: scale(0);
-    transition: all linear .3s;
-}
-
-.modal_active #modal_img{
-    transform: scale(1);
-}
-
-.modal{
-
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, .7);
-    position: fixed;
-    visibility: hidden;
-    z-index: 1;
-    opacity: 0;
-    transition: visibility 0.8s linear, opacity 0.5s linear;
-}
-
-.modal_content{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-#bt_close{
-    color:#fff;
-    background-color: #000;
-    position: absolute;
-    top:10px;
-    right: 10px;
-    padding: 5px 10px;
-    font-size: 25px;
-    border:solid 1px #fff;
-    transition: all ease-out .4s;
-    cursor: pointer;
-}
-
-#bt_close:hover{
-    background-color: #f00;
-}
-
-.modal_active{
-    visibility: visible;
-    opacity: 1;
-
-}*/
