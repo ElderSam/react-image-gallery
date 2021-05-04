@@ -1,0 +1,50 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.App-logo {
+    height: 8vmin;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+main h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+main p {
+    font-size: 16px;
+}
+
+.chevron-down-circle {
+    height: 2.5rem;
+    margin-bottom: 1rem;
+}
