@@ -2,6 +2,7 @@
 # ReactJS Image Gallery
 
 <img src="./gallery.gif" />
+
 --------------------
 # Getting Started with Create React App
 
